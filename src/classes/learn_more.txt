@@ -1,0 +1,17 @@
+Kotlin documentation
+https://kotlinlang.org/docs/reference/classes.html#constructors
+https://kotlinlang.org/docs/reference/coding-conventions.html#factory-functions
+https://kotlinlang.org/docs/reference/properties.html
+https://kotlinlang.org/docs/reference/visibility-modifiers.html
+https://kotlinlang.org/docs/reference/classes.html#abstract-classes
+https://kotlinlang.org/docs/reference/interfaces.html
+https://kotlinlang.org/docs/reference/delegation.html
+https://kotlinlang.org/docs/reference/data-classes.html
+https://kotlinlang.org/docs/reference/equality.html
+https://kotlinlang.org/docs/reference/multi-declarations.html#destructuring-declarations
+https://kotlinlang.org/docs/reference/object-declarations.html#object-declarations
+https://kotlinlang.org/docs/reference/enum-classes.html
+https://kotlinlang.org/docs/reference/sealed-classes.html
+
+Sealed classes are great for:
+https://articles.caster.io/android/handling-optional-errors-using-kotlin-sealed-classes/
