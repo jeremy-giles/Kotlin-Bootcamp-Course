@@ -1,0 +1,13 @@
+Kotlin documentation
+https://kotlinlang.org
+https://kotlinlang.org/docs/reference/coding-conventions.html
+
+Collection of random and frequently used idioms in Kotlin
+https://kotlinlang.org/docs/reference/idioms.html
+
+Kotlin tutorials
+https://play.kotlinlang.org/
+
+Udacity course
+https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
+

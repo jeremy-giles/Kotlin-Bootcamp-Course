@@ -1,0 +1,6 @@
+Kotlin documentation
+https://kotlinlang.org/docs/reference/basic-types.html#string-templates
+https://kotlinlang.org/docs/reference/basic-syntax.html#using-nullable-values-and-checking-for-null
+https://kotlinlang.org/docs/reference/collections-overview.html#list
+https://kotlinlang.org/docs/reference/control-flow.html#control-flow-if-when-for-while
+https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator

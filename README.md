@@ -2,3 +2,4 @@
 
 [1. Get Started](src/getstarted)
 [2. Basics](src/basics)
+[3. Functions](src/functions)
