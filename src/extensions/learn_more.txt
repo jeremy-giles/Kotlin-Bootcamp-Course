@@ -1,0 +1,9 @@
+Kotlin documentation
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-triple/
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-mutable-list/
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-hash-map/
+https://kotlinlang.org/docs/reference/object-declarations.html#companion-objects
+https://kotlinlang.org/docs/reference/extensions.html#extensions
+https://kotlinlang.org/docs/reference/extensions.html#nullable-receiver
