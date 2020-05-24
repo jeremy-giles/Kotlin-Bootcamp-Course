@@ -1,0 +1,8 @@
+Kotlin documentation
+https://kotlinlang.org/docs/reference/generics.html
+https://kotlinlang.org/docs/reference/generics.html#generic-constraints
+https://kotlinlang.org/docs/reference/generics.html#star-projections
+https://kotlinlang.org/docs/reference/generics.html#declaration-site-variance
+https://kotlinlang.org/docs/reference/inline-functions.html#reified-type-parameters
+https://kotlinlang.org/docs/reference/typecasts.html#type-erasure-and-generic-type-checks
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/check.html
