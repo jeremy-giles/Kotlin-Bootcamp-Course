@@ -1,0 +1,6 @@
+Kotlin documentation
+https://kotlinlang.org/docs/reference/annotations.html
+https://kotlinlang.org/docs/reference/reflection.html#reflection
+https://kotlinlang.org/docs/reference/returns.html#break-and-continue-labels
+https://kotlinlang.org/docs/reference/lambdas.html
+https://kotlinlang.org/docs/reference/inline-functions.html
